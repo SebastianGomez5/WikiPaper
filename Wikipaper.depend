@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1670688990 source:e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\trabajador.cpp
+	"Trabajador.h"
+	"Producto.h"
+	"Proveedor.h"
+	"Cliente.h"
+	"Caja.h"
+	<iostream>
+	<vector>
+
+1670626264 e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\trabajador.h
+	"Producto.h"
+	"Proveedor.h"
+	"Cliente.h"
+	"Caja.h"
+	<iostream>
+
+1670620677 source:e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\main.cpp
+	<iostream>
+	"Trabajador.h"
+	"Cliente.h"
+	"Proveedor.h"
+	"Caja.h"
+	"Producto.h"
+
+1670687793 source:e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\producto.cpp
+	"Producto.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+
+1670621441 e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\producto.h
+	<iostream>
+
+1670590586 source:e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\caja.cpp
+	"Caja.h"
+	"Fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+
+1670590751 e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\caja.h
+	"Fecha.h"
+	<iostream>
+
+1670643203 source:e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+
+1670643214 e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\cliente.h
+	<iostream>
+
+1670620364 source:e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1670591378 e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\fecha.h
+	<iostream>
+
+1670691339 source:e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\proveedor.cpp
+	"Proveedor.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+
+1670643208 e:\mi unidad\programacion\the final proyect\proyecto unido\wikipaper\proveedor.h
+	<iostream>
+
+1670590586 source:e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\caja.cpp
+	"Caja.h"
+	"Fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+
+1670590751 e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\caja.h
+	"Fecha.h"
+	<iostream>
+
+1670591378 e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\fecha.h
+	<iostream>
+
+1670643203 source:e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+
+1670643214 e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\cliente.h
+	<iostream>
+
+1670620364 source:e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1670620677 source:e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\main.cpp
+	<iostream>
+	"Trabajador.h"
+	"Cliente.h"
+	"Proveedor.h"
+	"Caja.h"
+	"Producto.h"
+
+1670626264 e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\trabajador.h
+	"Producto.h"
+	"Proveedor.h"
+	"Cliente.h"
+	"Caja.h"
+	<iostream>
+
+1670621441 e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\producto.h
+	<iostream>
+
+1670643208 e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\proveedor.h
+	<iostream>
+
+1670687793 source:e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\producto.cpp
+	"Producto.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+
+1670691339 source:e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\proveedor.cpp
+	"Proveedor.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+
+1670688990 source:e:\mi unidad\programacion\segundo semestre\proyecto final\proyecto unido\wikipaper\trabajador.cpp
+	"Trabajador.h"
+	"Producto.h"
+	"Proveedor.h"
+	"Cliente.h"
+	"Caja.h"
+	<iostream>
+	<vector>
+
